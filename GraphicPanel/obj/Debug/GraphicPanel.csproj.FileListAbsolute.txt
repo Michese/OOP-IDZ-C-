@@ -1,0 +1,15 @@
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\bin\Debug\GraphicPanel.exe.config
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\bin\Debug\GraphicPanel.exe
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\bin\Debug\GraphicPanel.pdb
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\MainWindow.g.cs
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\App.g.cs
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel_MarkupCompile.cache
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel_MarkupCompile.lref
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\MainWindow.baml
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.g.resources
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.Properties.Resources.resources
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.exe
+C:\Users\miche\source\repos\GraphicPanel\GraphicPanel\obj\Debug\GraphicPanel.pdb
